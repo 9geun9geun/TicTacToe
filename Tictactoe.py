@@ -1,5 +1,5 @@
 #---Global variables---
-board = ["-","-","-",  #GAMEBOARDd
+board = ["-","-","-",  #GAMEBOARD table
          "-","-","-",
          "-","-","-"]
 game_still_going = True   #If game still going
